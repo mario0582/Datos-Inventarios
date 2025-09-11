@@ -1,4 +1,5 @@
-﻿Producto;Costo_almacenamiento;Inventario_inicial;Stock de seguridad
+﻿Producto;Costo_almacenamiento;Inventario_inicial;Stock_seguridad
 Fertilizantes;1;30;24
 Semillas;1,2;25;12
 Abonos;2,5;15;12
+
